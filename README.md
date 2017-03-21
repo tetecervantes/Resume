@@ -6,36 +6,33 @@ Telephone: (81) 83112104
 Cellphone: 8115450777
 Email: tetecervantes94@gmail.com
  
-Education
+#Education
 Undergraduate
 Bachelor in International Affairs
 Instituto Tecnológico y de Estudios Superiores de Monterrey (8th semester)
 Average: 93/100
 
-International Experience
+#International Experience
 University of British Columbia Exchange Program (January 2017- April 2017)
 Mitacs Research Internship in University of Alberta (May 2017- August 2017)  
  
-Technological Skills
+#Technological Skills
 Office Suite
 Google Drive Suite
 Adobe Photoshop / iMovie
 Slack
 Github
 
-Languages
+#Languages
 English -TOEFL  653 
 French- DELF B1
  
-Professional Experience
+#Professional Experience
 Civic Innovation Intern at Codeando Mexico (May 2016- November 2016)
 This internship involves participating in two main projects: Retos Cívicos, a project that connects NGO’s with the technological community in an open innovation strategy, in order to propose technological solutions to public problems. And San Pedro Abierto, a pilot project of open innovation for Latin American cities, for the municipality of San Pedro Garza García. This project is made in collaboration with both Codeando México and NYU’s GovLab. My duties were research and co-coordinating the projects.
  
 Governmental Evaluation Intern at Consejo Cívico de Instituciones de Nuevo León A.C. (April 2015- December 2015)
 This internship involves working with local security issues and doing governmental evaluation. It is necessary to have contact with local authorities of various districts of the metropolitan area of Nuevo León in order to evaluate the conditions of each district’s police departments. Additionally a bimonthly report is created to evaluate trends in crime rate in the state and I was partially in charge of “Yo Di Un Moche” platform, (I Paid a Bribe) that measures corruption in the state.
-
-
-
 
 Research Assistant in ITESM (Aug 2016-  Dec 2016 )
 Research assistant for Dra.Gabriela de la Paz, working on a paper titled "The Obama Administration Migration Strategies" that studies the migration deterrence strategies implemented in the US-Mexico border during the first six years of the Barack Obama Administration.
