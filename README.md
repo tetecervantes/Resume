@@ -1,5 +1,6 @@
 # Resume
-María Esther Cervantes Macías 
+## María Esther Cervantes Macías 
+
 Ave. López Mateos 2541 Col. Burócratas Federale
 
 Monterrey, Nuevo León, México.
@@ -12,26 +13,36 @@ Email: <tetecervantes94@gmail.com>
  
 ## Education
 Undergraduate
+
 Bachelor in International Affairs
+
 Instituto Tecnológico y de Estudios Superiores de Monterrey (8th semester)
+
 Average: 93/100
 
 ## International Experience
 University of British Columbia Exchange Program (January 2017- April 2017)
+
 Mitacs Research Internship in University of Alberta (May 2017- August 2017)  
  
 ## Technological Skills
 Office Suite
+
 Google Drive Suite
+
 Adobe Photoshop / iMovie
+
 Slack
+
 Github
 
 ## Languages
 English -TOEFL  653 
+
 French- DELF B1
  
 ## Professional Experience
+
 ### Civic Innovation Intern at Codeando Mexico (May 2016- November 2016)
 This internship involves participating in two main projects: Retos Cívicos, a project that connects NGO’s with the technological community in an open innovation strategy, in order to propose technological solutions to public problems. And San Pedro Abierto, a pilot project of open innovation for Latin American cities, for the municipality of San Pedro Garza García. This project is made in collaboration with both Codeando México and NYU’s GovLab. My duties were research and co-coordinating the projects.
  
