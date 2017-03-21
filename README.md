@@ -62,7 +62,7 @@ SALRI is the student council of the International Affairs Bachelor at Tecnológi
 Forum formed by undergraduate students of Mexico and India in which we did Google Hangouts to discuss relevant topics such as women's rights, culture and politics in our countries, and made projects with a partner of the other country.
  
 ### Writer for Nueva Prensa (May 2014 – Jan 2016)
-Student newspaper of ITESM. Awarded Best Political Writer in Semester August-December 2014
+Student newspaper of ITESM. Awarded Best Political Writer in August-December 2014
  
 ### Coordinator of Cadena Seeley (Girl’s Leadership Group) (2008-2014)
 Cadena Seeley is a formative group of about 180 girls from age range 12-18 years old that has a mission to "form catholic leaders at the service of others". Cadena Seeley promotes intellectual, social, physical, technical and spiritual skills. Additionally, the group encourages acquiring fundraising, first aid, and wilderness survival skills. As a coordinator one's function is to guide and work on a weekly basis with a team to provide the previously mentioned skills to the girls.
