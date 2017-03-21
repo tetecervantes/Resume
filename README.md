@@ -1,7 +1,7 @@
 # Resume
 ## María Esther Cervantes Macías 
 
-Ave. López Mateos 2541 Col. Burócratas Federale
+Ave. López Mateos 2541 Col. Burócratas Federales
 
 Monterrey, Nuevo León, México.
 
