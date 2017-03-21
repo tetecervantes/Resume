@@ -46,7 +46,7 @@ Research assistant for Dra.Gabriela de la Paz, working on a paper titled "The Ob
 
 ## Extracurricular Activities
 
-### Volunteer at “Alcalde, ¿Como Vamos? (Aug 2015- Aug 2016 )
+### Volunteer at Alcalde, ¿Como Vamos? (Aug 2015- Aug 2016 )
 The platform looks for a more direct contact between the nine  mayors of the Monterrey’s metropolitan area and the citizens, through commitments in more than nine areas.
  
 ### Volunteer and Coordinator in Codeando Mexico (Aug 2015- May 2016 )
