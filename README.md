@@ -1,4 +1,4 @@
-Resume
+# Resume
 María Esther Cervantes Macías
 Ave. López Mateos 2541 Col. Burócratas Federales 
 Monterrey, Nuevo León, México.
@@ -6,28 +6,28 @@ Telephone: (81) 83112104
 Cellphone: 8115450777
 Email: tetecervantes94@gmail.com
  
-Education
+## Education
 Undergraduate
 Bachelor in International Affairs
 Instituto Tecnológico y de Estudios Superiores de Monterrey (8th semester)
 Average: 93/100
 
-International Experience
+## International Experience
 University of British Columbia Exchange Program (January 2017- April 2017)
 Mitacs Research Internship in University of Alberta (May 2017- August 2017)  
  
-Technological Skills
+## Technological Skills
 Office Suite
 Google Drive Suite
 Adobe Photoshop / iMovie
 Slack
 Github
 
-Languages
+## Languages
 English -TOEFL  653 
 French- DELF B1
  
-Professional Experience
+## Professional Experience
 Civic Innovation Intern at Codeando Mexico (May 2016- November 2016)
 This internship involves participating in two main projects: Retos Cívicos, a project that connects NGO’s with the technological community in an open innovation strategy, in order to propose technological solutions to public problems. And San Pedro Abierto, a pilot project of open innovation for Latin American cities, for the municipality of San Pedro Garza García. This project is made in collaboration with both Codeando México and NYU’s GovLab. My duties were research and co-coordinating the projects.
  
@@ -37,7 +37,7 @@ This internship involves working with local security issues and doing government
 Research Assistant in ITESM (Aug 2016-  Dec 2016 )
 Research assistant for Dra.Gabriela de la Paz, working on a paper titled "The Obama Administration Migration Strategies" that studies the migration deterrence strategies implemented in the US-Mexico border during the first six years of the Barack Obama Administration.
 
-Extracurricular Activities
+## Extracurricular Activities
 Volunteer at “Alcalde, ¿Como Vamos? (Aug 2015- Aug 2016 )
 The platform looks for a more direct contact between the nine  mayors of the Monterrey’s metropolitan area and the citizens, through commitments in more than nine areas.
  
@@ -59,7 +59,7 @@ Student newspaper of ITESM. Awarded Best Political Writer in Semester August-Dec
 Coordinator of Cadena Seeley (Girl’s Leadership Group) (2008-2014)
 Cadena Seeley is a formative group of about 180 girls from age range 12-18 years old that has a mission to "form catholic leaders at the service of others". Cadena Seeley promotes intellectual, social, physical, technical and spiritual skills. Additionally, the group encourages acquiring fundraising, first aid, and wilderness survival skills. As a coordinator one's function is to guide and work on a weekly basis with a team to provide the previously mentioned skills to the girls.
  
-Awards
+## Awards
 Santander Scholarship for International Mobility
 Scotiabank Student Mobility Award
 Mitacs Globalink Research Intern Award
