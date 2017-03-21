@@ -76,6 +76,8 @@ Cadena Seeley is a formative group of about 180 girls from age range 12-18 years
  
 ## Awards
 Santander Scholarship for International Mobility
+
 Scotiabank Student Mobility Award
+
 Mitacs Globalink Research Intern Award
 
