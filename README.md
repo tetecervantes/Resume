@@ -1,14 +1,6 @@
 # Resume
 ## María Esther Cervantes Macías 
 
-Ave. López Mateos 2541 Col. Burócratas Federales
-
-Monterrey, Nuevo León, México.
-
-Telephone: (81) 83112104
-
-Cellphone: 8115450777
-
 Email: <tetecervantes94@gmail.com>
  
 ## Education
@@ -53,7 +45,8 @@ This internship involves working with local security issues and doing government
 Research assistant for Dra.Gabriela de la Paz, working on a paper titled "The Obama Administration Migration Strategies" that studies the migration deterrence strategies implemented in the US-Mexico border during the first six years of the Barack Obama Administration.
 
 ## Extracurricular Activities
-Volunteer at “Alcalde, ¿Como Vamos? (Aug 2015- Aug 2016 )
+
+###Volunteer at “Alcalde, ¿Como Vamos? (Aug 2015- Aug 2016 )
 The platform looks for a more direct contact between the nine  mayors of the Monterrey’s metropolitan area and the citizens, through commitments in more than nine areas.
  
 ### Volunteer and Coordinator in Codeando Mexico (Aug 2015- May 2016 )
